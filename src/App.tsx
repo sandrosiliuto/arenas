@@ -124,8 +124,8 @@ export default function App() {
       <section id="hero" className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1590523277543-a94d2e4eb00b?auto=format&fit=crop&q=80&w=2000" 
-            alt="El Médano - Montaña Roja" 
+            src="https://raw.githubusercontent.com/sandrosiliuto/arenas/main/playa.jpeg" 
+            alt="El Médano - Playa Chica" 
             className="w-full h-full object-cover opacity-60 scale-105 animate-slow-zoom"
             referrerPolicy="no-referrer"
           />
